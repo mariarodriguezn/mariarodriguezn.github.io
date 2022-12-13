@@ -1,0 +1,85 @@
+ .u-section-1 {
+  min-height: 660px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 260px;
+  background-image: none;
+  margin: 121px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 347px;
+  height: 347px;
+  box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.4);
+  background-image: url("images/MeCropped1.jpg");
+  background-position: 50% 50%;
+  margin: -361px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  margin: 24px 50px 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 10px 50px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-top-style: solid;
+  border-right-style: solid;
+  border-left-style: solid;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 10px auto -20px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 724px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 756px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 768px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-bottom: -5px;
+  }
+}

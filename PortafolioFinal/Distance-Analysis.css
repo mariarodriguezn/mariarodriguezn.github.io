@@ -1,0 +1,28 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 112px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-style: italic;
+  margin: 20px 0;
+} .u-section-2 {
+  min-height: 547px;
+}
+
+.u-section-2 .u-custom-html-1 {
+  height: auto;
+  min-height: 507px;
+  margin: 20px auto 20px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-custom-html-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
