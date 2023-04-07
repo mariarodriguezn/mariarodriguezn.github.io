@@ -57,18 +57,17 @@
 
 @media (max-width: 991px) {
    .u-section-1 {
-    min-height: 681px;
+    min-height: 680px;
   }
 
   .u-section-1 .u-group-1 {
     width: 720px;
-    margin-bottom: 51px;
   }
 }
 
 @media (max-width: 767px) {
    .u-section-1 {
-    min-height: 759px;
+    min-height: 758px;
   }
 
   .u-section-1 .u-group-1 {
@@ -84,7 +83,7 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 822px;
+    min-height: 821px;
   }
 
   .u-section-1 .u-group-1 {
