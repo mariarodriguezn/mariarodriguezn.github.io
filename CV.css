@@ -137,7 +137,7 @@
 .u-section-2 .u-repeater-2 {
   grid-gap: 10px 10px;
   grid-template-columns: 100%;
-  min-height: 1870px;
+  min-height: 1881px;
 }
 
 .u-section-2 .u-list-item-3 {
@@ -528,10 +528,6 @@
     width: auto;
     margin-right: initial;
     margin-left: initial;
-  }
-
-  .u-section-2 .u-repeater-2 {
-    min-height: 2185px;
   }
 
   .u-section-2 .u-text-11 {
