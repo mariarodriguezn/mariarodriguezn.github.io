@@ -629,7 +629,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-image-1 {
+.u-container-layout:hover > .u-section-2 .u-image-1 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -645,7 +645,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-2 .u-image-1 {
+.u-container-layout.hover > .u-section-2 .u-image-1 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -667,7 +667,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-image-2 {
+.u-container-layout:hover > .u-section-2 .u-image-2 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -683,7 +683,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-2 .u-image-2 {
+.u-container-layout.hover > .u-section-2 .u-image-2 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -705,7 +705,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-image-3 {
+.u-container-layout:hover > .u-section-2 .u-image-3 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -721,7 +721,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-2 .u-image-3 {
+.u-container-layout.hover > .u-section-2 .u-image-3 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -895,7 +895,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-image-4 {
+.u-container-layout:hover > .u-section-2 .u-image-4 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -911,7 +911,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-2 .u-image-4 {
+.u-container-layout.hover > .u-section-2 .u-image-4 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -933,7 +933,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-image-5 {
+.u-container-layout:hover > .u-section-2 .u-image-5 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -949,7 +949,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-2 .u-image-5 {
+.u-container-layout.hover > .u-section-2 .u-image-5 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -971,7 +971,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-image-6 {
+.u-container-layout:hover > .u-section-2 .u-image-6 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -987,7 +987,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-2 .u-image-6 {
+.u-container-layout.hover > .u-section-2 .u-image-6 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1045,7 +1045,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-image-7 {
+.u-container-layout:hover > .u-section-2 .u-image-7 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1061,7 +1061,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-2 .u-image-7 {
+.u-container-layout.hover > .u-section-2 .u-image-7 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1083,7 +1083,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-container-layout:hover .u-image-8 {
+.u-container-layout:hover > .u-section-2 .u-image-8 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1099,7 +1099,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-2 .u-image-8 {
+.u-container-layout.hover > .u-section-2 .u-image-8 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1519,7 +1519,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-3 .u-container-layout:hover .u-image-1 {
+.u-container-layout:hover > .u-section-3 .u-image-1 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1535,7 +1535,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-3 .u-image-1 {
+.u-container-layout.hover > .u-section-3 .u-image-1 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1557,7 +1557,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-3 .u-container-layout:hover .u-image-2 {
+.u-container-layout:hover > .u-section-3 .u-image-2 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1573,7 +1573,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-3 .u-image-2 {
+.u-container-layout.hover > .u-section-3 .u-image-2 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1747,7 +1747,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-3 .u-container-layout:hover .u-image-3 {
+.u-container-layout:hover > .u-section-3 .u-image-3 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1763,7 +1763,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-3 .u-image-3 {
+.u-container-layout.hover > .u-section-3 .u-image-3 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1785,7 +1785,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-3 .u-container-layout:hover .u-image-4 {
+.u-container-layout:hover > .u-section-3 .u-image-4 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1801,7 +1801,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-3 .u-image-4 {
+.u-container-layout.hover > .u-section-3 .u-image-4 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1823,7 +1823,7 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-3 .u-container-layout:hover .u-image-5 {
+.u-container-layout:hover > .u-section-3 .u-image-5 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
@@ -1839,7 +1839,7 @@
   border-color: transparent !important;
 }
 
-.u-container-layout.hover .u-section-3 .u-image-5 {
+.u-container-layout.hover > .u-section-3 .u-image-5 {
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
   border-style: solid !important;
   border-top-width: 3px !important;
