@@ -400,23 +400,23 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 2832px;
+    min-height: 3319px;
   }
 
   .u-section-2 .u-text-1 {
     width: auto;
-    margin-top: 1977px;
+    margin-top: 2443px;
     margin-left: auto;
   }
 
   .u-section-2 .u-text-2 {
     width: auto;
-    margin-top: -1993px;
+    margin-top: -2459px;
     margin-right: auto;
   }
 
   .u-section-2 .u-list-1 {
-    margin-top: 1968px;
+    margin-top: 2456px;
     margin-left: auto;
   }
 
@@ -429,9 +429,12 @@
   }
 
   .u-section-2 .u-list-2 {
-    margin-top: -2705px;
+    margin-top: -3170px;
     margin-right: auto;
-    margin-bottom: 66px;
+  }
+
+  .u-section-2 .u-repeater-2 {
+    min-height: 2312px;
   }
 
   .u-section-2 .u-text-12 {
@@ -484,22 +487,42 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 3323px;
+  }
+
   .u-section-2 .u-text-1 {
-    margin-top: 1978px;
+    margin-top: 2446px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -2460px;
+  }
+
+  .u-section-2 .u-list-1 {
+    margin-top: 2460px;
+  }
+
+  .u-section-2 .u-list-2 {
+    margin-top: -3172px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 2933px;
+    min-height: 3423px;
   }
 
   .u-section-2 .u-text-1 {
-    margin-top: 1980px;
+    margin-left: 83px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -2459px;
   }
 
   .u-section-2 .u-list-1 {
-    margin-top: 1967px;
+    margin-top: 2457px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -528,8 +551,7 @@
   }
 
   .u-section-2 .u-list-2 {
-    margin-top: -2804px;
-    margin-bottom: 59px;
+    margin-top: -3270px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -568,26 +590,31 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 3367px;
+    min-height: 3939px;
   }
 
   .u-section-2 .u-text-1 {
-    margin-top: 2285px;
+    margin-top: 2808px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-text-2 {
-    margin-top: -2294px;
+    margin-top: -2788px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-list-1 {
-    margin-top: 2276px;
+    margin-top: 2822px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-2 .u-repeater-1 {
-    min-height: 982px;
+    min-height: 1008px;
+    grid-gap: 10px;
   }
 
   .u-section-2 .u-image-1 {
@@ -599,11 +626,14 @@
   }
 
   .u-section-2 .u-list-2 {
-    margin-top: -3248px;
-    margin-bottom: 493px;
+    margin-top: -3796px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-2 .u-repeater-2 {
+    min-height: 2685px;
   }
 
   .u-section-2 .u-text-11 {
